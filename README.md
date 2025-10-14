@@ -56,4 +56,4 @@ Built with `pythonocc-core`, `trimesh`, and `<model-viewer>`.
       http://localhost:8000/viewer.html
       Use the dropdown to point to a specific .glb file.
 
-  ---
+
